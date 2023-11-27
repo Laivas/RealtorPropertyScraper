@@ -4,7 +4,7 @@
 Extract real estate data from Realtor.com by inputting city and state. Supports proxy settings for faster scraping and allows data saving in CSV or SQLite format. Features a scheduler for automated scraping. Compatible with Windows OS.
 
 ## Setup
-- **Prerequisites**: Maven for building the project, Windows OS.
+- **Requirements**: Maven for building the project, Windows OS.
 - **Build**: Run `mvn package` in the project directory to build the JAR file.
 - **Run**: Execute the program from the generated JAR file.
 
